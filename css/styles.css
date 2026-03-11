@@ -167,6 +167,7 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 1.2rem;
 }
 
 abbr[title] {
@@ -10868,12 +10869,12 @@ p {
 }
 .section-heading .section-heading-upper {
   display: block;
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 800;
 }
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 3rem;
+  font-size: 1.5rem;
   font-weight: 100;
 }
 
